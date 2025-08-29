@@ -41,11 +41,11 @@ img {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .item{
-  font-size: 0%;
+  font-size: 0;
 }
 .item p {
   display: inline-block;
-  /* outline: 1px solid green; */
+  font-size: 18px;
 }
 
 .line {
