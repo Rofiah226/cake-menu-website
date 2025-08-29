@@ -1,0 +1,71 @@
+body {
+  box-sizing: border-box;
+  height: 100%;
+  margin: 0;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  background-image: url(https://thumbs.dreamstime.com/z/romantic-sweets-pattern-valentine-s-day-background-pink-cakes-balloons-candy-cupcake-donut-strawberry-heart-perfect-385037940.jpg?ct=jpeg);
+}
+h1,
+h2,
+p {
+  text-align: center;
+}
+h1,
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.menu {
+  background-color: rgb(252, 172, 185);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  width: 80%;
+}
+.establish {
+  font-style: italic;
+}
+.cake {
+  text-align: left;
+  width: 75%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  /* outline: 1px solid red; */
+}
+.price {
+  width: 25%;
+  text-align: right;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.item{
+  font-size: 0%;
+}
+.item p {
+  display: inline-block;
+  /* outline: 1px solid green; */
+}
+
+.line {
+  color: rgb(223, 91, 91);
+  border-color: rgb(223, 91, 91);
+  width: 400;
+}
+footer {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+a {
+  color: black;
+}
+a:hover {
+  color: red;
+}
+a:visited {
+  color: rgb(223, 91, 91);
+}
+a:active {
+  color: blueviolet;
+}

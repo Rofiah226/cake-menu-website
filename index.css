@@ -1,0 +1,64 @@
+h1 {
+  text-align: center;
+  margin-right: 40px;
+}
+body {
+  background-color: rgb(240, 166, 179);
+  height: 100%;
+  margin-left: 400px;
+  width: 50%;
+}
+.menu {
+  /* width: 50%; */
+  margin: 0;
+}
+
+#image {
+  margin-left: 20px;
+}
+#image2 {
+  margin-left: 20px;
+}
+.cheese {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 70px;
+  padding-left: 30px;
+}
+.strawberry {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 50px;
+  padding-left: 30px;
+}
+.sponge {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 160px;
+  padding-right: 4%;
+}
+.chocolate {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 100px;
+  padding-right: 4%;
+}
+#image3 {
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 250;
+  height: 250;
+}
+#image4 {
+  margin-left: 20px;
+}
+#image5 {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.cupcake {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 70px;
+  padding-left: 30px;
+}
